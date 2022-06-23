@@ -1,0 +1,18 @@
+h1 {
+  color: #364e96;
+  padding: 0.5em 0;
+  border-top: solid 3px #364e96;
+  border-bottom: solid 3px #364e96;
+}
+ h2 {
+    font-size: 25px;
+    }
+    
+body {
+  background-color: #e0fff0;
+}
+
+example :first-child {
+  color: red;
+}
+
